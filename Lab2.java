@@ -38,10 +38,10 @@ public class Lab2 {
 	    // all of the wives, sacks, cats, and kittens are as well, along
 	    // with the narrator.
 	    // Calculate the number going to St. Ives
-	    total = -1;
+	    //total = -1;
 	} else {
 	    // Otherwise, only the narrator is going!
-	    total = 1;
+	    //total = 1;
 	}
 	
 	// 3. Right before exiting, the system should print
